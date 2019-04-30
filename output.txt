@@ -41,10 +41,16 @@ Total Average: 72.03%
 
 
 Student Id: student1, name: D 
-Total Average: 6.00%
+Total Average: 65.67%
+
+	Course: Biology, Teacher: Mr. D 
+	Final Grade: 64.00 %
+
+	Course: History, Teacher:  Mrs. P 
+	Final Grade: 64.00 %
 
 	Course: Math, Teacher:  Mrs. C 
-	Final Grade: 6.00 %
+	Final Grade: 69.00 %
 
 
 

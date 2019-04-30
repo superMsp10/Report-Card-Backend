@@ -19,3 +19,9 @@ test_id,student_id,mark
 6,3,78
 7,3,40
 7,student1,60
+6,student1,70
+5,student1,60
+4,student1,70
+3,student1,60
+2,student1,70
+1,student1,60
